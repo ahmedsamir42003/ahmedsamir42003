@@ -12,7 +12,7 @@ In addition to my technical skills, I am also a strong communicator and collabor
 </p>
 
 
-<p align="center"><a href="https://www.kaggle.com/ahmedsamirabdalftah"><img src="https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ahmed-samir-9a5769233/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://t.me/DataBlog2023"></a> 
+<p align="center"><a href="https://www.kaggle.com/ahmedsamirafattah"><img src="https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ahmed-samir-9a5769233/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://t.me/DataBlog2023"></a> 
 </p>
 
 <p align=center>
