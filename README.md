@@ -32,5 +32,5 @@ In addition to my technical skills, I am also a strong communicator and collabor
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir42003&show_icons=true&locale=en&layout=compact" alt="ahmedsamir42003" /></p>
 
+ <p><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir42003&show_icons=true&theme=white&locale=en&layout=compact" alt="ahmedsamir42003" /> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmedsamir42003&show_icons=true&theme=white&locale=en" alt="ahmedsamir42003" /></p>
