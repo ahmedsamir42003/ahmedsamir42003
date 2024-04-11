@@ -15,14 +15,16 @@ In addition to my technical skills, I am also a strong communicator and collabor
 <p align="center"><a href="https://www.kaggle.com/ahmedsamirafattah"><img src="https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ahmed-samir-9a5769233/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://t.me/DataBlog2023"></a> 
 </p>
 
-<p align=center>
+<p align="center">
   <a href="https://github.com/ahmedsamir42003">
     <img src="https://badges.pufler.dev/visits/ahmedsamir42003/ahmedsamir42003?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/ahmedsamir42003?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/ahmedsamir42003?style=flat-square&color=black&logo=github">
+    <img src="https://img.shields.io/github/stars/ahmedsamir42003?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+
 
 <p align="center">
  <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/mysql-red"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/statistics-gray">
@@ -32,5 +34,26 @@ In addition to my technical skills, I am also a strong communicator and collabor
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<div style="display: flex;">
+    <div style="width: 50%;">
+        <img style="width: 100%; height: 180px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir42003&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmedsamir42003" />
+    </div>
+    <div style="width: 50%;">
+        <img style="width: 100%; height: 180px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=ahmedsamir42003&show_icons=true&theme=dark&locale=en" alt="ahmedsamir42003" />
+    </div>
+</div>
+<div>
+    <img style="width: 100%; height: 180px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir42003&theme=dark" alt="ahmedsamir42003"/>
+</div>
 
- <p><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir42003&show_icons=true&theme=white&locale=en&layout=compact" alt="ahmedsamir42003" /> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmedsamir42003&show_icons=true&theme=white&locale=en" alt="ahmedsamir42003" /></p>
+
+
+
+
+
+
+
+
+
+
+
