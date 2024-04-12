@@ -34,17 +34,27 @@ In addition to my technical skills, I am also a strong communicator and collabor
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+
 <div style="display: flex;">
     <div style="width: 50%;">
         <img style="width: 100%; height: 180px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir42003&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmedsamir42003" />
     </div>
-    <div style="width: 50%;">
-        <img style="width: 100%; height: 180px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=ahmedsamir42003&show_icons=true&theme=dark&locale=en" alt="ahmedsamir42003" />
-    </div>
-</div>
-<div>
-    <img style="width: 100%; height: 180px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir42003&theme=dark" alt="ahmedsamir42003"/>
-</div>
+    
+
+<table>
+    <tr>
+        <th>
+            <p><img align="center" src="https://readmestats.999857.xyz/api?username=ahmedsamir42003&show_icons=true&locale=en&theme=dark" alt="ahmedsamir42003"/></p>
+        </th>
+        <th>
+            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir42003&theme=dark" alt="ahmedsamir42003" style="padding-right: 30px;"/></p>
+        </th>
+    </tr>
+</table>
+
+
+
+
 
 
 
